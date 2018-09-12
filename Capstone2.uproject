@@ -4,11 +4,7 @@
 	"Category": "",
 	"Description": "",
 	"Modules": [
-		{
-			"Name": "Capstone2",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
+
 	],
 	"Plugins": [
 		{
