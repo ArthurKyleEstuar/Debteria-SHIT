@@ -1,0 +1,6 @@
+---,enemyName,enemyHP,enemyMINAtk,enemyMAXAtk,enemyDEF,enemyHPDayBonus,enemyATKDayBonus
+Slime,Slime,15,3,5,5,10,5
+SkeleWarrior,Skeleton Warrior,50,5,7,10,10,5
+SkeleArcher,Skeleton Archer,20,8,10,0,5,5
+SkeleMage,Skeleton Mage,20,8,10,0,5,5
+Orc,Orc,125,10,15,10,25,6
