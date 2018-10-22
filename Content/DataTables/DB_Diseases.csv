@@ -1,1 +1,2 @@
----,diseaseName,diseaseDesc,diseaseIcon,diseaseClass
+---,diseaseName,diseaseDesc,diseaseIcon,diseaseClass,diseaseEffectValues,diseaseLevel
+Exhaust,"Exhaustion","You are very tired. You lose stats.","PaperSprite'/Game/2DSideScroller/Sprites/UI/Disease/prod_ui_disease_Sprite_0.prod_ui_disease_Sprite_0'","BlueprintGeneratedClass'/Game/2DSideScrollerBP/Blueprints/Characters/Diseases/Disease_Overexhaust.Disease_Overexhaust_C'","(0.700000,0.500000,0.300000,900.000000)","0"
