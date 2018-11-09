@@ -1,1 +1,5 @@
----,specialName,specialCooldown,specialDamageMod
+---,specialName,specialCooldown,specialDamageMod,specialWillCutin
+coffeeshot,"Espresso Shot","2.000000","1.000000","False"
+americano,"The Americano","10.000000","1.000000","True"
+charge,"Charge","10.000000","1.000000","True"
+smash,"Ground Smash","5.000000","1.000000","False"
