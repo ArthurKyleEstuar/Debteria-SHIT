@@ -3,10 +3,17 @@
 	"EngineAssociation": "4.19",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+	],
 	"Plugins": [
 		{
 			"Name": "Paper2D",
 			"Enabled": true
+		},
+		{
+			"Name": "ImageResizUEr",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/670be04026664663875aadd4dea45b9d"
 		}
 	]
 }
